@@ -23,9 +23,9 @@ TOKEN = "6770670571:AAF7G93zLKRgKPI9CLf5NqJs0imW2IiVMSM"
 mongo_url = "mongodb+srv://tiwarireeta004:peqxLEd36RAg7ors@cluster0.furypd3.mongodb.net/?retryWrites=true&w=majority"
 PHOTO_URL = ["https://telegra.ph/file/a17bbdf36197b0f0eb2c1.jpg", "https://telegra.ph/file/4754711cd88be32baf5b4.jpg", "https://telegra.ph/file/46b1151c6088fabc62250.jpg", "https://telegra.ph/file/4ed692d4e678216f87083.jpg"]
 SUPPORT_CHAT = "slavesupport"
-UPDATE_CHAT = "slave_waifu_update"
+UPDATE_CHAT = "slavesupport"
 BOT_USERNAME = "Slavge_wafiu_bot"
-CHARA_CHANNEL_ID = "-1002233863654"
+CHARA_CHANNEL_ID = "-1002010986967"
 api_id = "27744639"
 api_hash = "a5e9da62bcd7cc761de2490c52c89ccf"
 
