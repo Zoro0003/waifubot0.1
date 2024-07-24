@@ -25,7 +25,7 @@ PHOTO_URL = ["https://telegra.ph/file/a17bbdf36197b0f0eb2c1.jpg", "https://teleg
 SUPPORT_CHAT = "slavesupport"
 UPDATE_CHAT = "slavesupport"
 BOT_USERNAME = "Slavge_wafiu_bot"
-CHARA_CHANNEL_ID = "-1002010986967"
+CHARA_CHANNEL_ID = "-1002242333256"
 api_id = "27744639"
 api_hash = "a5e9da62bcd7cc761de2490c52c89ccf"
 
