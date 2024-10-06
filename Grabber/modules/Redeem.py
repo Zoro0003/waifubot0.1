@@ -119,5 +119,5 @@ async def claimwaifu(update, context):
         await update.message.reply_text("Invalid code.")
 
 # Add command handlers to the bot
-application.add_handler(CommandHandler("hgen", waifugen))
-application.add_handler(CommandHandler("hredeem", claimwaifu))
+application.add_handler(CommandHandler("Lgen", waifugen))
+application.add_handler(CommandHandler("Lredeem", claimwaifu))
